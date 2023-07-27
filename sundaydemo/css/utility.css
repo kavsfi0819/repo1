@@ -1,0 +1,14 @@
+.container{
+                min-height: auto;
+                color: rgb(44, 42, 42);
+}
+
+body{
+    color: rgb(235, 231, 231);
+
+}
+.card
+{
+display: flex;
+flex-wrap: no;
+}
